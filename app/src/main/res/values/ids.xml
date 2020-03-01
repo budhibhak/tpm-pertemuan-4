@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activitymain_rv_hero" type="id" />
+    <item name="image_detail" type="id" />
+    <item name="tittle_detail" type="id" />
+    <item name="deskripsi_detail" type="id" />
+</resources>
